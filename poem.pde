@@ -3,5 +3,6 @@ void setup(){
 }
 
 void draw(){
-  text("goodbye",40,250);
+  text("hello",40,150);
+  text("goodbye",40,350);
 }
