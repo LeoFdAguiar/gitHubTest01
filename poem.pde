@@ -7,4 +7,5 @@ void draw(){
   text("how are you", 40, 250);
   text("goodbye", 40, 350);
   text("see you later", 40, 450);
+  text("yes take care", 40, 500);
 }
