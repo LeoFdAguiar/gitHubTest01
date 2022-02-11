@@ -21,5 +21,12 @@ void draw(){
   text("Yes take care.", 240, 350);
 
 }
+
+//comment below is from hate branch
 //this is a comment after merging the main branch into the hate branch
 //this is the hate file after having main merged to it
+
+//comment below is from the main branch
+//this is a comment after merging main to the hate branch; what will happen now
+//this comment is in the main file
+
