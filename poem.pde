@@ -3,10 +3,11 @@ void setup(){
 }
 
 void draw(){
-  text("hello", 40, 50);
-  text("how are you", 40, 100);
-  text("i'm better now that i'm with you", 40, 150);
-  text("goodbye", 40, 200);
-  text("see you later", 40, 250);
-  text("yes take care", 40, 300);
+  text("Hello!", 40, 50);
+  text("How are you?", 40, 100);
+  text("I'm better now that I'm with you!", 40, 150);
+  text("You're such a sweetie! I can't stay now but I'll see you later.", 40, 200);
+  text("Ok, can't wait. Goodbye.", 40, 250);
+  text("See you later.", 40, 300);
+  text("Yes take care.", 40, 350);
 }
