@@ -22,3 +22,4 @@ void draw(){
 
 }
 //this is a comment after merging the main branch into the hate branch
+//this is the hate file after having main merged to it
